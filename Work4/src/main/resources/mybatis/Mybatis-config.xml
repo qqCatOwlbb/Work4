@@ -10,7 +10,7 @@
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://localhost:3306/xitu?characterEncoding=UTF-8&amp;serverTimezone=UTC&amp;useUnicode=true"/>
                 <property name="username" value="root"/>
-                <property name="password" value="Lin37241"/>
+                <property name="password" value="******"/>
             </dataSource>
         </environment>
     </environments>
