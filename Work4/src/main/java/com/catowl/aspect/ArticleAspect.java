@@ -9,6 +9,9 @@ import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/*
+*该切面类会在访问文章时实现点击量加一
+**/
 @Aspect
 @Component
 public class ArticleAspect {
